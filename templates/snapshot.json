@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "observed_at": null,
+  "period_start": null,
+  "period_end": null,
+  "dataset_version": null,
+  "pipeline_git_sha": null,
+  "scope": {
+    "dataset_manifest_sha": null,
+    "tokenizer_id_and_revision": null,
+    "stage": null,
+    "token_count_basis": null,
+    "pipeline_config_sha": null
+  },
+  "metrics": [
+    {
+      "name": "l1_tokens",
+      "value": null,
+      "unit": "tokens",
+      "denominator": null,
+      "definition": null,
+      "slice": null,
+      "config": {},
+      "evidence_ids": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "replace_with_evidence_id",
+      "source_id": null,
+      "uri": null,
+      "version_or_sha256": null,
+      "locator": null,
+      "observed_at": null
+    }
+  ],
+  "verified_improvements": [],
+  "potential_regressions": [],
+  "unfinished_work": [],
+  "unavailable_sources": []
+}

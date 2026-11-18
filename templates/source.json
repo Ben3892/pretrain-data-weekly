@@ -1,0 +1,11 @@
+{
+  "id": "replace_with_source_id",
+  "kind": "token_stats | cleaning_log | quality_report | decontamination_report",
+  "uri": null,
+  "user_designated": false,
+  "format": "json | jsonl | csv | markdown | log",
+  "timestamp_field_or_locator": null,
+  "version_or_sha": null,
+  "metric_fields_or_locators": {},
+  "access_notes": null
+}
